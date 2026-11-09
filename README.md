@@ -1,4 +1,4 @@
-# MedSave
+# medSave
 
 MedSave is a frontend-only medicine inventory and expiry tracking dashboard built with React, Vite, JavaScript, and Lucide icons.
 
